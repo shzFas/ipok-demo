@@ -1,0 +1,88 @@
+{
+  "ProfileForm": {
+    "profile": {
+      "creditPurpose": {
+          "title" : "Цель Кредита",
+          "mortage" : "Ипотека"
+        },
+      "creditRegionEstate": {
+          "title" : "Регион недвижимости",
+          "moscow" : "Москва",
+          "saint-petersburg" : "Санкт-Петербург"
+      },
+      "creditRegionAppeal": {
+          "title" : "Регион обращения",
+          "moscow" : "Москва",
+          "saint-petersburg" : "Санкт-Петербург"
+      },
+      "personalData": {
+        "title": "Личные данные",
+        "firstname": "Фамилия",
+        "patronymic": "Имя",
+        "lastname": "Отчество",
+        "lastnameChanged": {
+          "title": "ФИО менялись?",
+          "no": "Нет",
+          "yes": "Да"
+        },
+        "gender": {
+          "title": "Пол",
+          "man": "Мужской",
+          "woman": "Женский"
+        },
+        "birthDate": "Дата рождения",
+        "family": {
+            "title": "Семейное положение",
+            "single": "Не в браке",
+            "married": "В браке",
+            "divorced": "В разводе",
+            "widower": "Вдовец/Вдова"
+        },
+        "education": {
+          "title" : "Образование",  
+          "stupid-as-stick" : " "  
+        },
+        "citizenship": {
+          "title": "Гражданство",
+          "ru": "РФ",
+          "other": "Другое"
+        }
+      },
+      "passportData": {
+        "title": "Паспортные данные",
+        "docSeries": "Серия",
+        "docNo": "Номер",
+        "issueDate": "Дата выдачи",
+        "issueUnit": "Код подразделения",
+        "issuedBy": "Кем выдан",
+        "birthPlace": "Место рождения",
+        "birthCountry": {
+            "title" : "Страна рождения",
+            "ru" : "РФ",
+            "other" : "Другая"
+        },
+        "registrationPlace": "Адрес регистрации",
+        "registrationPlaceEqualsLivingPlace": {
+          "title": "Адрес регистрации совпадает с фактическим адресом проживания?",
+          "yes": "Да",
+          "no": "Нет"
+        },
+        "havePreviousPassport": {
+          "title": "Предыдущий паспорт РФ?",
+          "yes": "Да",
+          "no": "Нет"
+        },
+        "prevDocSeries": "Серия предыдущего паспорта",
+        "prevDocNo": "Номер предыдущего паспорта",
+        "prevDocIssueDate": "Дата выдачи предыдущего паспорта",
+        "snils": "СНИЛС",
+        "uploadPassportScan": "Прикрепите скан всех страниц паспорта",
+        "personalDataProcessing": "Я даю Согласие на обработку персональных данных",
+        "creditHistoryReceiving": "Я даю Согласие на получение кредитной истории",
+        "pfsInfoReceiving": "Я даю Согласие на получение информации из ПФР",
+        "notRelatedToPdl": "Я подтверждаю отсутствие принадлежности к ПДЛ",
+        "notBankrupt": "Я подтверждаю отсутствие процедуры банкротства"
+      }
+    }
+  }
+}

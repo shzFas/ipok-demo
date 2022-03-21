@@ -1,0 +1,9 @@
+{
+    "logic": {
+        "wrongSmsCode": "Некоректный СМС код",
+        "wrongPhoneNumber": "Некоректный номер Телефона"
+    },
+    "validation": {},
+    "critical": {},
+    "warning": {}
+} 

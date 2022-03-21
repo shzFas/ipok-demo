@@ -1,0 +1,79 @@
+{
+    "common": {
+        "companyName": "iPOK"
+    },
+    "template": {
+        "auth": {
+            "description": "Цифровая ипотека полного цикла",
+            "btnSignin": "Войти",
+            "btnRegister": "Зарегистрироваться"
+        },
+        "register": {},
+        "profileSuccess": {
+            "btnOk": "Хорошо",
+            "subtitle": "Ожидайте предложения банков",
+            "title": "Заявка отправлена"
+        },
+        "profile": {
+            "btnManualFill": "Заполнить анкету вручную",
+            "btnAutoFill": "Войти через Госуслуги",
+            "description": "Автоматическое заполнение анкеты работает с подтвержденной учетной записью на Госуслугах"
+        },
+        "profileForm": {
+            "btnNext": "Отправить заявку"
+        },
+        "signin": {
+            "btnSignin": "Отправить СМС",
+            "inpPhone": "Введите номер телефона"
+        },
+        "authVerify": {
+            "title": "Введите код из СМС",
+            "inpCodeLabel": "Код",
+            "btnContinue": "Продолжить"
+        },
+        "gosuslugi": {
+            "gosuslugiPageTitle": {
+                "title": "iPOK"
+            },
+            "btnAuthWithGosuslugi": "Войти через ГосУслуги"
+        }
+    },
+    "organisms": {
+        "bankList": {
+            "bank": {
+                "VTB": "ВТБ",
+                "Dom.rf": "Дом РФ",
+                "RosBank": "РосБанк",
+                "Alfa-bank": "Альфа-Банк",
+                "Sovcom": "Совкомбанк"
+            },
+            "cardBankList": {
+                "credit": {
+                    "rate": "Ставка",
+                    "sum": "Сумма",
+                    "term": "Срок",
+                    "payment": {
+                        "monthlyPayment": "Ежемесячный Платеж",
+                        "firstPayment": "Первый Платеж"
+                    }
+                }
+            }
+        },
+        "menu": {
+            "demoMenuTitle": {
+                "title": "iPOK Демо-Версия"
+            }
+        }
+    },
+    "molecules": {
+        "bankListTitle": {
+            "title": "Предложения от банков"
+        },
+        "cardFirstPay": {
+            "firstPayment": "первый взнос"
+        },
+        "cardPayment": {
+            "monthlyPayment": "ежемесячный платеж"
+        }
+    }
+}

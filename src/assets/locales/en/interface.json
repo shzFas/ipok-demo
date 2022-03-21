@@ -1,0 +1,74 @@
+{
+    "common": {
+        "companyName": "iPOK"
+    },
+    "template": {
+        "auth": {
+            "description": "Full cycle digital mortgage",
+            "btnSignin": "Sing In",
+            "btnRegister": "Register"
+        },
+        "register": {},
+        "profile": {
+            "btnManualFill": "Fill out the profile manually",
+            "btnAutoFill": "Sign in with Gosulugi",
+            "description": "Automatic filling of the profile with a verified account on the Gosuslugi Services"
+        },
+        "profileForm": {
+            "btnNext": "Next"
+        },
+        "signin": {
+            "btnSignin": "Send sms",
+            "inpPhone": "Enter you phone number"
+        },
+        "authVerify": {
+            "title": "Enter Code from SMS",
+            "inpCodeLabel": "Code",
+            "btnContinue": "Continue"
+        },
+        "gosuslugi": {
+            "gosuslugiPageTitle": {
+                "title": "iPOK"
+            },
+            "btnAuthWithGosuslugi": "Auth by Gosuslugi"
+        }
+    },
+    "organisms": {
+        "bankList": {
+            "bank": {
+                "VTB": "VTB",
+                "DomRF": "Dom RF",
+                "RosBank": "RosBank",
+                "Alfa-bank": "Alfa Bank",
+                "Sovcom": "Sovcom"
+            },
+            "cardBankList": {
+                "credit": {
+                    "rate": "Rate",
+                    "sum": "Sum",
+                    "term": "Term",
+                    "payment": {
+                        "monthlyPayment": "Monthly Payment",
+                        "firstPayment": "First Payment"
+                    }
+                }
+            }
+        },
+        "menu": {
+            "demoMenuTitle": {
+                "title": "iPOK Tech demo"
+            }
+        }
+    },
+    "molecules": {
+        "bankListTitle": {
+            "title": "Offers from Banks"
+        },
+        "cardFirstPay": {
+            "firstPayment": "First Payment"
+        },
+        "cardPayment": {
+            "monthlyPayment": "Monthly Payment"
+        }
+    }
+}
